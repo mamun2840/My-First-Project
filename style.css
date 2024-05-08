@@ -1,0 +1,57 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    margin: 0;
+}
+
+.first-section {
+    background-image: url(images/shape/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.fixeable-container {
+    display: flex;
+}
+
+.half-width-text {
+    width: 50%;
+    padding: 140px 0px 30px 300px;
+    color: rgb(90, 88, 88);
+}
+
+.half-width-img {
+    width: 50%;
+    padding: 100px 300px 30px 0px;
+}
+
+.half-width-img img {
+    width: 350px;
+    height: 350px;
+}
+
+.order-click {
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+#second-picture {
+    padding: 40px 0px 0px 200px;
+}
+
+#secound-text {
+    padding: 90px 50px 0px 0px;
+}
+
+.half-width-text p {
+    padding-bottom: 50px;
+}
+
+.secound-section {
+    background-image: url(images/shape/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
