@@ -59,6 +59,7 @@ body {
 .therd-section {
     background-color: rgb(236, 238, 239);
     margin-top: -26px;
+    width: 100%;
 }
 
 .therd-section h1 {
@@ -75,6 +76,7 @@ p {
 .praragrap {
     text-align: left;
     padding-left: 20px;
+    color: black;
 }
 
 .headding {
@@ -83,8 +85,9 @@ p {
 
 .left-img {
     box-shadow: 1px 2px 20px rgb(224, 105, 105);
-    margin: 30px 30px 20px 50px;
+    margin: 30px 140px 20px 50px;
     border-radius: 25px;
+    width: 40%;
 
 }
 
@@ -92,17 +95,18 @@ p {
     box-shadow: 1px 2px 20px rgb(224, 105, 105);
     margin: 30px 40px 20px 0px;
     border-radius: 25px;
+    width: 40%;
 }
 
 .left-img img {
-    width: 500px;
+    width: 450px;
     padding: 20px 20px;
     border-radius: 30px;
 
 }
 
 .right-img img {
-    width: 500px;
+    width: 450px;
     padding: 20px 20px;
     border-radius: 30px;
 }
